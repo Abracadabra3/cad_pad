@@ -18,11 +18,14 @@
 - 1 unsoldered Seeed XIAO RP2040
 - 12 through-hole 1N4148 diodes
 - 12 MX-Style switches
-- 12 blank DSA keycaps
+- 12 DSA keycaps
 - 7 SK6812 MINI-E LEDs
 - 4 M3x16mm screws
 - 4 M3x5x4mm heatset inserts
 - 2 7 pin headers
+- 0.91 inch OLED display (Optional)
+- 4 pin header (Only if OLED display used)
+- EC11 Rotary encoders (Optional)
 
 ## Design decisions
 I chose the 12 key layout of the CAD Pad to mimic a numberpad and still have extra pins on the Seeeduino. The PCB has a connector for both a rotary encode and an OLED display. Neither are in the firmware right now and there is only enough pins for one at a time, but both are options for the future.
