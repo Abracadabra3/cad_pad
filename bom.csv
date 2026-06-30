@@ -1,0 +1,13 @@
+Part, Number, Notes
+Seeeduino Xiao Rp2040, 1
+7 pin header, 2, connecting Xiao to PCB
+Through-hole 1N4148 diodes, 12
+MX style switches, 12
+DSA Keycaps, 12
+SK6812 MINI-E LEDs, 7, for seven segment display
+M3x16 screws, 4
+M3x5x4 heatset inserts, 4
+0.91 inch OLED display, 1, optional component
+4 pin header, 1, necessary if OLED display used
+EC11 Rotary encoder, 1, optional component
+ , , Or the Stardance Hackpad kit
